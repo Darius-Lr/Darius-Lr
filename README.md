@@ -4,10 +4,10 @@
   - `TypeScript`
   - `React`
   - `Back-End`
-- 
+
 - 📫 [Linkedin profile](https://www.linkedin.com/in/darius-lare-1bb44a111)
 
-- ☕️ [Buy me a coffee](https://www.paypal.me/DarClau)
+- 🍦 [Buy me an icecream](https://www.paypal.me/DarClau)
 
 
 
