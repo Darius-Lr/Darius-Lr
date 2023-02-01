@@ -1,1 +1,13 @@
-https://www.linkedin.com/in/darius-lare-1bb44a111
+- 👋 Hi, I’m `Lare Darius`
+- 👀 I’m interested in 
+  - `NodeJS`
+  - `TypeScript`
+  - `React`
+  - `Back-End`
+- 
+- 📫 [Linkedin profile](https://www.linkedin.com/in/darius-lare-1bb44a111)
+
+- ☕️ [Buy me a coffee](https://www.paypal.me/DarClau)
+
+
+
