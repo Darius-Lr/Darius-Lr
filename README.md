@@ -1,8 +1,8 @@
 - 👋 Hi, I’m `Lare Darius`
 - 👀 I’m interested in 
-  - `NodeJS`
-  - `TypeScript`
-  - `React`
+  - `Python`
+  - `C++`
+  - `Javascript`
   - `Back-End`
 
 - 📫 [Linkedin profile](https://www.linkedin.com/in/darius-lare-1bb44a111)
